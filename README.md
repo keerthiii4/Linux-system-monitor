@@ -17,6 +17,10 @@ A multithreaded Linux System Monitoring tool developed in **C** on **Ubuntu Linu
 * POSIX Threads (`pthread`)
 * Linux `/proc` Filesystem
 
+## Screenshot
+
+![Linux System Monitor Dashboard](screenshots/LinuxMonitor_op.png)
+
 ## Compilation
 
 ```bash
